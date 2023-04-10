@@ -1,5 +1,0 @@
-	
-	interface Color {
-
-		void fill();
-	}
